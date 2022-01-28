@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../imagens/viagem.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+section{
+
+}
+.formContainer{
+    border-radius: 20px;
+    max-width: 550px;
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    margin: auto;
+	float: none;
+}
+h1{
+    font-size: 32px;
+}
+p{
+    font-size: 22px;
+}
+.mb{
+    margin-bottom: 30px;
+}
+input, select{
+    width: 70%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+    
+}
+
+input[type="submit"]{
+     color:white;
+    background-color: violet;
+    font-weight: bold;
+}
+.s2{
+    width: 25px;
+}
